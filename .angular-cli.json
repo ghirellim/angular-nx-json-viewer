@@ -1,0 +1,6 @@
+{
+  "apps": [{
+    "index": "src/index.html",
+    "styles": ["src/styles.css"]
+  }]
+}
